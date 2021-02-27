@@ -2,13 +2,13 @@ export const games = [
     {
         name: "Devil Daggers",
         features: [
-            "music", "camera perspective", "shooting", "aesthetic", "bosses", "gameplay", "art style", "color palette"
+            "music", "camera perspective", "shooting", "aesthetic", "bosses", "gameplay", "color palette"
         ]
     },
     {
         name: "Minecraft",
         features: [
-            "crafting system", "voxel art", "graphics", "music", "camera perspective", "storyline", "combat", "inventory system", "aesthetic", "bosses", "fluid physics", "physics", "fluids", "consumables", "potions", "food", "gameplay", "art style", "grind", "level generation", "progression system"
+            "crafting system", "graphics", "music", "camera perspective", "storyline", "combat", "inventory system", "aesthetic", "bosses", "fluid physics", "physics", "fluids", "consumables", "potions", "food", "gameplay", "grind", "level generation", "progression system"
         ]
     },
     {
@@ -32,92 +32,91 @@ export const games = [
     {
         name: "Dishonored",
         features: [
-            "world building", "camera perspective", "storyline", "combat", "upgrade tree", "aesthetic", "environmental storytelling", "consumables", "characters", "moral quandaries", "powers", "stealth", "branching narrative", "revenge storyline", "weapons", "gameplay", "art style", "color palette", "nihilism", "teleportation", "progression system"
+            "world building", "camera perspective", "storyline", "combat", "upgrade tree", "aesthetic", "environmental storytelling", "consumables", "characters", "moral quandaries", "powers", "stealth", "branching narrative", "revenge storyline", "weapons", "gameplay", "color palette", "nihilism", "teleportation", "progression system"
         ]
     },
     {
         name: "Gone Home",
         features: [
-            "love story", "gayness", "family tension"
+            "love story", "gayness", "family tension", "camera perspective", "storyline", "audio logs", "characters", "gameplay"
         ]
     },
     {
         name: "Half Life",
         features: [
-            "weapons"
+            "weapons", "world building", "camera perspective", "storyline", "combat", "shooting", "environmental storytelling", "physics", "characters", "gameplay", "puzzles", "guns", "enemies"
         ]
     },
     {
         name: "Her Story",
         features: [
-            "gameplay"
+            "gameplay", "plot twist", "family tension", "detective gameplay", "gimmick"
         ]
     },
     {
         name: "Hollow Knight",
         features: [
-            "art style"
+            "world building", "graphics", "music", "camera perspective", "storyline", "combat", "aesthetic", "environmental storytelling", "bosses", "characters", "powers", "gameplay", "platforming", "anthropomorphism", "progression system", "enemies" 
         ]
     },
     {
         name: "Hotline Miami",
         features: [
-            "gameplay",
-            "music"
+            "world building", "graphics", "music", "camera perspective", "storyline", "combat", "shooting", "aesthetic", "environmental storytelling", "gore", "control scheme", "gameplay", "color palette", "disguises"
         ]
     },
     {
         name: "Inside",
         features: [
-            "puzzles"
+            "graphics", "camera perspective", "aesthetic", "plot twist", "gameplay", "puzzles", "color palette"
         ]
     },
     {
         name: "Kentucky Route Zero",
         features: [
-            "color palette"
+            "world building", "graphics", "music", "camera perspective", "storyline", "aesthetic", "environmental storytelling", "control scheme", "gameplay", "color palette"
         ]
     },
     {
         name: "Little Inferno",
         features: [
-            "nihilism", "optimism"
+            "nihilism", "optimism", "camera perspective", "storyline", "aesthetic", "physics", "gameplay", "gimmick", "items"
         ]
     },
     {
         name: "Mark of the Ninja",
         features: [
-            "ninjas"
+            "graphics", "camera perspective", "combat", "upgrade tree", "aesthetic", "powers", "stealth", "gameplay", "ninjas", "platforming", "grappling hooks"
         ]
     },
     {
         name: "Metal Gear Solid",
         features: [
-            "guns"
+            "graphics", "camera perspective", "storyline", "combat", "shooting", "bosses", "characters", "stealth", "weapons", "gameplay", "guns"
         ]
     },
     {
         name: "Papers, Please",
         features: [
-            "tedium"
+            "graphics", "music", "camera perspective", "aesthetic", "moral quandaries", "gameplay", "color palette", "nihilism", "tedium", "gimmick"
         ]
     },
     {
         name: "Portal",
         features: [
-            "teleportation"
+            "camera perspective", "aesthetic", "environmental storytelling", "gameplay", "puzzles", "teleportation", "gimmick"
         ]
     },
     {
         name: "Prey (2017)",
         features: [
-            "psychological horror"
+            "world building", "crafting system", "graphics", "music", "camera perspective", "storyline", "combat", "upgrade tree", "inventory system", "environmental storytelling", "audio logs", "plot twist", "physics", "characters", "moral quandaries", "powers", "stealth", "family tension", "weapons", "gameplay", "guns", "psychological horror", "progression system", "enemies"
         ]
     },
     {
         name: "Return of the Obra Dinn",
         features: [
-            "detective gameplay"
+            "graphics", "music", "storyline", "aesthetic", "characters", "gameplay", "detective gameplay", "gimmick"
         ]
     },
     {
