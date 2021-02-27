@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Video Game Mixer</title>
+        <link rel='stylesheet' href='styles/styles.css'>
+        <!-- Load React. -->
+        <!-- Note: when deploying, replace "development.js" with "production.min.js". -->
+        <script src="https://unpkg.com/react@17/umd/react.development.js" crossorigin></script>
+        <script src="https://unpkg.com/react-dom@17/umd/react-dom.development.js" crossorigin></script>
+    </head>
+    <body>
+        <div id='wrapper'>
+            <h1>Video Game Mixer</h2>
+            <h2>Remix some of my favorite games!</h3>
+            <div id='react-wrapper'></div>
+            <div style="position: absolute; left: 50%; bottom: 15px">
+                <a href="https://github.com/taangle/vg-mixer" style="position: relative; left: -50%;">
+                    source code
+                </a>
+            </div>
+        </div>
+        <!-- Load mixer -->
+        <script type='module' src='scripts/component/mixer.js'></script>
+    </body>
+</html>
