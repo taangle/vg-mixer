@@ -5,4 +5,4 @@ Game count: 33
 
 Feature count: 62
 
-Note that each game is only assigned a subset of all features.
+Note that each game is only assigned a relevant subset of all features.
