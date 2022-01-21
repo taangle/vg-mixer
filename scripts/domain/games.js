@@ -2,7 +2,7 @@ export const games = [
     {
         name: "Devil Daggers",
         features: [
-            "music", "camera perspective", "shooting", "aesthetic", "bosses", "color palette"
+            "music", "camera perspective", "shooting", "aesthetic", "bosses", "color palette", "hellishness"
         ]
     },
     {
@@ -56,7 +56,7 @@ export const games = [
     {
         name: "Hollow Knight",
         features: [
-            "world building", "graphics", "music", "camera perspective", "storyline", "combat", "aesthetic", "environmental storytelling", "bosses", "characters", "powers", "platforming", "anthropomorphism", "progression system", "enemies" 
+            "world building", "graphics", "music", "camera perspective", "storyline", "combat", "aesthetic", "environmental storytelling", "bosses", "characters", "powers", "platforming", "anthropomorphism", "progression system", "enemies", "bugs"
         ]
     },
     {
@@ -68,13 +68,13 @@ export const games = [
     {
         name: "Inside",
         features: [
-            "graphics", "camera perspective", "aesthetic", "plot twist", "puzzles", "color palette"
+            "graphics", "camera perspective", "aesthetic", "plot twist", "puzzles", "color palette", "body horror"
         ]
     },
     {
         name: "Kentucky Route Zero",
         features: [
-            "world building", "graphics", "music", "camera perspective", "storyline", "aesthetic", "environmental storytelling", "control scheme", "color palette"
+            "world building", "graphics", "music", "camera perspective", "storyline", "aesthetic", "environmental storytelling", "control scheme", "color palette", "dialogue system"
         ]
     },
     {
@@ -104,7 +104,7 @@ export const games = [
     {
         name: "Portal",
         features: [
-            "camera perspective", "aesthetic", "environmental storytelling", "puzzles", "teleportation", "gimmick"
+            "camera perspective", "aesthetic", "environmental storytelling", "puzzles", "teleportation", "gimmick", "sense of humor"
         ]
     },
     {
@@ -146,13 +146,13 @@ export const games = [
     {
         name: "The Stanley Parable",
         features: [
-            "branching narrative", "narration", "fourth wall-breaking", "gimmick"
+            "branching narrative", "narration", "fourth wall-breaking", "gimmick", "sense of humor"
         ]
     },
     {
         name: "Super Meat Boy",
         features: [
-            "characters", "characters", "platforming"
+            "characters", "platforming", "difficulty", "levels"
         ]
     },
     {
@@ -188,13 +188,31 @@ export const games = [
     {
         name: "What Remains of Edith Finch",
         features: [
-            "environmental storytelling", "gimmick"
+            "environmental storytelling", "gimmick", "family tension"
         ]
     },
     {
         name: "Hitman",
         features: [
-            "camera perspective", "combat", "stealth", "disguises"
+            "camera perspective", "combat", "stealth", "disguises", "rampant homicide"
+        ]
+    },
+    {
+        name: "Inscryption",
+        features: [
+            "aesthetic", "plot twist", "color palette", "puzzles", "gothic horror"
+        ]
+    },
+    {
+        name: "Disco Elysium",
+        features: [
+            "world building", "aesthetic", "moral quandaries", "progression system", "narration", "detective gameplay", "camera perspective", "dialogue system", "retrograde amnesia"
+        ]
+    },
+    {
+        name: "Getting Over It",
+        features: [
+            "aesthetic", "social commentary", "difficulty", "narration", "control scheme", "cheap assets"
         ]
     }
 ]
